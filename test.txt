@@ -1,1 +1,2 @@
-It's text file for test
+It's text file for test.
+It was changed!
