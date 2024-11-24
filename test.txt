@@ -1,3 +1,4 @@
 It's text file for test.
 It was changed!
 Pull request
+Visual Studio Edit
